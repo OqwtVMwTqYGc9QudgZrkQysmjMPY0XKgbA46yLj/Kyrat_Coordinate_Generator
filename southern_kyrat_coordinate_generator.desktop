@@ -2,7 +2,7 @@
 Comment[en_US]=Execute Python Script
 Comment=Execute Python Script
 Encoding=UTF-8
-Exec=python3 /home/user1/Documents/FC4_meta_game/southern_kyrat_coordinate_generator.py
+Exec=python3 /home/user/Documents/FC4_meta_game/southern_kyrat_coordinate_generator.py
 GenericName[en_US]=
 GenericName=
 Icon=utilities-terminal
