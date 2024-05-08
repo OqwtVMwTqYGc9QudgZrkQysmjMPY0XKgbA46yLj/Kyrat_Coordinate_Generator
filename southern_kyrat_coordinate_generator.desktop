@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=Execute Python Script
+Comment=Execute Python Script
+Encoding=UTF-8
+Exec=python3 /home/user1/Documents/FC4_meta_game/southern_kyrat_coordinate_generator.py
+GenericName[en_US]=
+GenericName=
+Icon=utilities-terminal
+MimeType=
+Name[en_US]=Run Kyrat Point Generator
+Name=Run Kyrat Point Generator
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
